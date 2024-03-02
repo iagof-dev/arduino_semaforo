@@ -6,7 +6,6 @@ void setup()
   pinMode(led_verde, OUTPUT);
   pinMode(led_amarelo, OUTPUT);
   pinMode(led_vermelho, OUTPUT);
-  pinMode(buzzer, OUTPUT);
 }
 
 void loop()
